@@ -1,0 +1,3 @@
+Please input the following values for 'cyl' (number of cylinders), 'disp' (displacement), 'wt' (weight), 'am' (transmission)
+parameters.
+After filling them you'll see the prediction value for mpg (miles per gallon).
